@@ -1,0 +1,35 @@
+﻿  stdafx.cpp
+  common.cpp
+  OpenCVApplication.cpp
+c:\users\radu\documents\ip\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(735): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\radu\documents\ip\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(858): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\radu\documents\ip\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(863): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\radu\documents\ip\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(968): warning C4244: '=': conversion from 'short' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\radu\documents\ip\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(980): warning C4244: '=': conversion from 'short' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\radu\documents\ip\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(1157): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\radu\documents\ip\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(1158): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Generating Code...
+c:\users\radu\documents\ip\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(879): warning C4715: 'row_min': not all control paths return a value
+c:\users\radu\documents\ip\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(907): warning C4715: 'col_min': not all control paths return a value
+c:\users\radu\documents\ip\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(893): warning C4715: 'row_max': not all control paths return a value
+c:\users\radu\documents\ip\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(921): warning C4715: 'col_max': not all control paths return a value
+  OpenCVApplication.vcxproj -> C:\Users\Radu\Documents\IP\OpenCVApplication-VS2015_OCV31_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg310_64.dll
+  OpenCV\dll\Debug\opencv_world310d.dll
+          2 file(s) copied.
